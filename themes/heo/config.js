@@ -47,12 +47,12 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
+  HEO_INFO_CARD_URL1: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermunual_life',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://www.instagram.com/in__the__woods__1950',
   HEO_INFO_CARD_ICON2: 'fa-brands fa-instagram',
   HEO_INFO_CARD_URL3: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermunual_working',
-  HEO_INFO_CARD_TEXT3: 'Know More',
+  HEO_INFO_CARD_TEXT3: 'More',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
