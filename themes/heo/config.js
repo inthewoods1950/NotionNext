@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: 'Welcome to my website', url: 'https://ruoyaochen2002.pp.ua' },
-    { title: 'if you want to know more about me', url: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermunual_working' }
+    { title: 'if you want to know more about me', url: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermanual_working' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'Ruoyao CHEN',
   HEO_HERO_TITLE_4: 'a creative and loving elf🧝‍',
   HEO_HERO_TITLE_5: 'Something you may want to know about me',
-  HEO_HERO_TITLE_LINK: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermunual_working',
+  HEO_HERO_TITLE_LINK: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermanual_working',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'User Manual', url: '/tag/User Manual' },
