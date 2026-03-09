@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: 'and my thoughts',
   HEO_HERO_TITLE_3: 'RUOYAO CHEN',
   HEO_HERO_TITLE_4: 'Keep learning',
-  HEO_HERO_TITLE_5: 'and keep thinking',
+  HEO_HERO_TITLE_5: 'And keep thinking',
   HEO_HERO_TITLE_LINK: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermanual_working',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: 'Random Post',
@@ -49,12 +49,12 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
+  HEO_INFO_CARD_URL1: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermanual_working',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/inthewoods1950',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://ruoyaochen2002.pp.ua/Knowledge&Action/usermanual_life',
+  HEO_INFO_CARD_TEXT3: 'More',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -123,10 +123,10 @@ const CONFIG = {
   HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
 
   // 底部统计面板文案
-  HEO_POST_COUNT_TITLE: '文章数:',
-  HEO_SITE_TIME_TITLE: '建站天数:',
-  HEO_SITE_VISIT_TITLE: '访问量:',
-  HEO_SITE_VISITOR_TITLE: '访客数:',
+  HEO_POST_COUNT_TITLE: 'Published:',
+  HEO_SITE_TIME_TITLE: 'Running:',
+  HEO_SITE_VISIT_TITLE: 'Views:',
+  HEO_SITE_VISITOR_TITLE: 'Visitors:',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
